@@ -7,7 +7,6 @@ Ready to whip up something amazing? Let's dive in!
 ![image alt](https://github.com/Mahak0204-svg/react-recipe-finder/blob/2ab0eaaf108270b03b7316bea62444e70780985e/my-recipe-app/web1)
 
 [▶️ Click here to watch a quick demo!](your-demo-video-link-here)
-*Replace this with a direct link to a video demonstration of your app's functionality (e.g., on YouTube, Loom, or a direct `.mp4` link if hosted on GitHub).*
 
 ---
 
