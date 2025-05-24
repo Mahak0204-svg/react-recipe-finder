@@ -6,7 +6,7 @@ Ready to whip up something amazing? Let's dive in!
 
 ![image alt](https://github.com/Mahak0204-svg/react-recipe-finder/blob/2ab0eaaf108270b03b7316bea62444e70780985e/my-recipe-app/web1)
 
-[▶️ Click here to watch a quick demo!](your-demo-video-link-here)
+[▶️ Click here to watch a quick demo!](https://github.com/Mahak0204-svg/react-recipe-finder/blob/6c6df28ab891bd7eabb7c665257bd99049b51186/my-recipe-app/Demo%20video)
 
 ---
 
