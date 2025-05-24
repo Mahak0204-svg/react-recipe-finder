@@ -1,0 +1,20 @@
+/* General body styles are now mostly handled by Tailwind in index.html body tag */
+
+/* Custom scrollbar for recipe details */
+#recipe-content::-webkit-scrollbar {
+    width: 12px;
+}
+
+#recipe-content::-webkit-scrollbar-thumb {
+    background-color: #595454;
+    border-radius: 10px;
+}
+
+#recipe-content::-webkit-scrollbar-track {
+    background: #9b9999;
+    border-radius: 5px;
+}
+
+#recipe-content::-webkit-scrollbar-thumb:hover {
+    background-color: #6f6e6e;
+}
